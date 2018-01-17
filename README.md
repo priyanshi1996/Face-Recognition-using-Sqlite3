@@ -1,5 +1,5 @@
 # Face-Recognition-using-Sqlite3 (Python 3.6)
-This project firstly creates a dataset of faces using a webcam. And then that data is fed to a trainer there it is trained by LBPH (Level Binary Pattern Histogram) Classifier and then finally we will be able to recognize faces.
+This project firstly takes as input User Id and User Name and then creates a dataset of user's face using a webcam. And then that data is fed to a trainer there it is trained by LBPH (Level Binary Pattern Histogram) Classifier and then finally we will be able to recognize faces.
 
 This Project consists of various files 
 1. datasetCreator.py -> creates a dataset
